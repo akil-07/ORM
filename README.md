@@ -48,7 +48,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./Out.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/3fbf0147-f2e9-430e-a2c4-8e7088e0d7b5" />
 
 
 ## RESULT
